@@ -4,9 +4,9 @@ Homebrew tap for drsammokhtari's Mac apps.
 
 ```sh
 brew tap drsammokhtari/tap
-brew install --cask gitroster
+brew install --cask lightgitview
 ```
 
 | App | What it does |
 |---|---|
-| [GitRoster](https://github.com/drsammokhtari/gitroster) | See, commit, pull and push all your git repos in one light window |
+| [LightGitView](https://github.com/drsammokhtari/lightgitview) | See, commit, pull and push all your git repos in one light window |

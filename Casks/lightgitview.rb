@@ -1,6 +1,6 @@
 cask "lightgitview" do
-  version "1.0"
-  sha256 "cc4a76568e298d1140af7f307d904024eb27577ff8647dcbbae1d3665a187e21"
+  version "1.1"
+  sha256 "8fbe8fdcf89c2d295f692096fd1821ff21e4ed1d7b90fb33cdd760c9e2cb6ae0"
 
   url "https://github.com/drsammokhtari/lightgitview/releases/download/v#{version}/LightGitView-#{version}.zip"
   name "LightGitView"
